@@ -1,0 +1,118 @@
+/*--HEADER--*/
+
+.nn-header{
+    position:relative;
+    height:200px;
+}
+
+.nn-company{
+    position:absolute;
+    bottom:20px;
+    font-variant:small-caps;
+}
+
+.nn-company>h1{
+    font-family:Impact;
+    font-size:50px;
+    color:white;
+    letter-spacing: 0.3px;
+    text-shadow:0 0 2px black;
+    padding-bottom:0px;
+    border-bottom:1px dotted gray;
+    margin:0px;
+}
+.nn-company>h5{
+	margin-top:5px;
+    letter-spacing: 0.5px;
+}
+
+/*--BODY--*/
+
+.nn-sheet{
+    box-shadow:0 0 1px lightgray;
+    border-radius:5px;
+    padding:5px;
+    position:relative;
+    top:-10px;
+}
+
+.nn-sheet>article.col-sm-9, .nn-sheet>aside.col-sm-3{
+	padding: 5px;
+}
+
+/*--ASIDE BOX--*/
+
+.nn-cart{
+	margin-top: 5px;
+}
+
+.nn-cart ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-variant: small-caps;
+}
+
+.panel-heading strong{
+	font-variant: small-caps;
+	font-size: larger;
+	text-shadow:0 0 2px darkgray;
+}
+
+/*--PRODUCT--*/
+.nn-prod{
+	text-align: center;
+	font-size: smaller;
+	padding: 5px;
+}
+
+.nn-prod .panel-body img{
+	height: 150px;
+	max-width: 95%;
+}
+
+.nn-prod .panel-footer .row{
+	padding: 0 9px;
+	font-family: impact;
+	font-size: 20px;
+	color: darkgray;
+}
+
+.nn-prod .panel{
+	position: relative;
+}
+
+.nn-prod .panel>img{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+/*--DETAIL--*/
+
+.nn-detail .col-sm-5 img{
+	height: 290px;
+	max-width: 99%;
+}
+
+.nn-detail .col-sm-7 li{
+	font-variant: small-caps;
+	font-size: larger;
+}
+
+.nn-detail .tab-content img{
+	width: 70px;
+	height: 70px;
+	padding: 5px;
+	margin: 3px;
+	border-radius: 5px;
+	border:1px dotted blue;
+}
+
+.nn-detail .tab-content img:hover{
+	border:1px dotted red;
+}
+
+.nn-detail .tab-content a{
+	text-decoration: none;
+}

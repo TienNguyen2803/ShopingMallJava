@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin/layout.jsp=UTF-8
+encoding//src/com/jshop/admin/controller/CategoryController.java=UTF-8
+encoding//src/com/jshop/admin/controller/CustomerController.java=UTF-8
+encoding//src/com/jshop/admin/controller/OrderController.java=UTF-8
+encoding//src/com/jshop/admin/controller/ProductController.java=UTF-8
+encoding//src/com/jshop/admin/controller/SupplierController.java=UTF-8
+encoding//src/com/jshop/controller/AccountController.java=UTF-8
+encoding//src/com/jshop/controller/OrderController.java=UTF-8
+encoding//src/com/jshop/controller/ProductController.java=UTF-8
+encoding//src/com/jshop/helper/Mailer.java=UTF-8
+encoding//srcx/account_login_vi.properties=UTF-8
+encoding//srcx/global_vi.properties=UTF-8
+encoding/<project>=UTF-8
